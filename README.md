@@ -1,4 +1,4 @@
-# Git-and-Github-Introduction
+# Git and Github Introduction
 
 | Nama  | Division        | Sub-Division  |
 | ----- | ---------- | ---------- |

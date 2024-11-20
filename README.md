@@ -1,15 +1,19 @@
 # Git-and-Github-Introduction
 
-## A. Early Procedure
+| Nama  | Division        | Sub-Division  |
+| ----- | ---------- | ---------- |
+| Name here   | ELC/PGR | Sub-div |
 
-## B. Create Repository
+## Early Procedure
 
-## C. Push File from Local to Github
+## Create Repository
 
-## D. Create New Branch in Github 
+## Push File from Local to Github
 
-## E. Delete Branch in Github
+## Create New Branch in Github 
 
-## F. Merging Branch in Github
+## Delete Branch in Github
 
-## G. Other Procedure
+## Merging Branch in Github
+
+## Other Procedure
